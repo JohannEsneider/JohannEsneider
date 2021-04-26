@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Johann Esneider Chavez</h1>
-<h3 align="center">Desarrollador web, **Me gusta el backend** </b> </h3>
+<h3 align="center">Tecnólogo en análisis y desarrollo de software. Enfocado en el Desarrollo Web backend</h3>
 
 - Creciendo personal y profesionalmente a diario
 
-<h3 align="left">Ms redes sociales son:</h3>
+<h3 align="left">Mis redes sociales son:</h3>
 <p align="left">
 <a href="https://dev.to/backend developer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="backend developer" height="30" width="40" /></a>
 <a href="https://twitter.com/johannesneid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="johannesneid" height="30" width="40" /></a>
