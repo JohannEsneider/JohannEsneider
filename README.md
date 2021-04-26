@@ -11,7 +11,7 @@
 - Conocimientos en creación de API-REST con Node.js y Express, base de datos MongoDB y el uso de la aplicación Postman
 - Conocimiento práctico en SQLServer.
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohannEsneider)](https://github.com/JohannEsneider/JohannEsneider)
 
 
 <h3 align="left">Mis redes sociales --> </h3>
