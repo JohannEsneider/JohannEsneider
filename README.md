@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Johann Esneider Chavez</h1>
-<h3 align="center">Tecnólogo en análisis y desarrollo de software. Enfocado en el Desarrollo Web backend</h3>
+<h3 align="center">Tecnólogo en análisis y desarrollo de software. Enfocado en el desarrollo web</h3>
 
 
 
