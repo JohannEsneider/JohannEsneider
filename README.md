@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Johann Esneider Chavez</h1>
-<h3 align="center">Desarrollador software</h3>
+<h3 align="center">Desarrollador web, **Me gusta el backend** </b> </h3>
 
-- Actualmente continuo ampliando mis concoimientos en PHP **Laravel, Mysql**
+- Creciendo personal y profesionalmente a diario
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
