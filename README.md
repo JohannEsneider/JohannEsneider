@@ -5,7 +5,8 @@
 
 - Mantenimiento de aplicaciones en lenguaje PHP, JavaScript, jQuery, Ajax.
 - Conocimientos Framework Laravel 5.5 o superior.
-- Conocimientos en lenguaje Java con patrón de arquitectura MVC, Framework Bootstrap y base de datos MySQL-MariaDB, conocimientos en Git, GitHub, Bitbucket.
+- Conocimientos en lenguaje Java con patrón de arquitectura MVC, Framework Bootstrap y base de datos MySQL-MariaDB.
+- Conocimientos en Git, GitHub, Bitbucket.
 - Desarrollo Front-End, conocimientos básicos en React, y Bootstrap v5.0.
 - Conocimientos en creación de API-REST con Node.js y Express, base de datos MongoDB y el uso de la aplicación Postman
 - Conocimiento práctico en SQLServer.
