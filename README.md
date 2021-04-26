@@ -11,7 +11,7 @@
 - Conocimientos en creación de API-REST con Node.js y Express, base de datos MongoDB y el uso de la aplicación Postman
 - Conocimiento práctico en SQLServer.
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JohannEsneider)](https://github.com/JohannEsneider/JohannEsneider)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Johann_Dev)](https://github.com/JohannEsneider/JohannEsneider)
 
 
 
