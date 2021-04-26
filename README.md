@@ -1,7 +1,17 @@
 <h1 align="center">Hola 👋, soy Johann Esneider Chavez</h1>
 <h3 align="center">Tecnólogo en análisis y desarrollo de software. Enfocado en el Desarrollo Web backend</h3>
 
-- Creciendo personal y profesionalmente a diario
+
+
+- Mantenimiento de aplicaciones en lenguaje PHP, JavaScript, jQuery, Ajax.
+- Conocimientos Framework Laravel 5.5 o superior.
+- Conocimientos en lenguaje Java con patrón de arquitectura MVC, Framework Bootstrap y base de datos MySQL-MariaDB, conocimientos en Git, GitHub, Bitbucket.
+- Desarrollo Front-End, conocimientos básicos en React, y Bootstrap v5.0.
+- Conocimientos en creación de API-REST con Node.js y Express, base de datos MongoDB y el uso de la aplicación Postman
+- Conocimiento práctico en SQLServer.
+
+
+
 
 <h3 align="left">Mis redes sociales son:</h3>
 <p align="left">
