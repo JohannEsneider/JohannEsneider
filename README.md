@@ -12,7 +12,7 @@
 - Conocimiento práctico en SQLServer.
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Johann_Dev)](https://github.com/JohannEsneider/JohannEsneider)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Johann_Dev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Mis redes sociales --> </h3>
