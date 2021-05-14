@@ -12,7 +12,7 @@
 - Conocimiento práctico en SQLServer.
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Johann_Dev)](https://github.com/anuraghazra/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@Johann_Dev/6695bf37-495f-44cb-8f5a-f7910cd73d41.svg"></embed></figure>
 
 
 <h3 align="left">Mis redes sociales --> </h3>
