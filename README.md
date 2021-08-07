@@ -1,15 +1,14 @@
 <h1 align="center">Hola 👋, soy Johann Esneider Chavez</h1>
-<h3 align="center">Tecnólogo en análisis y desarrollo de software. Enfocado en el desarrollo web</h3>
+<h3 align="center">Desarrollador web</h3>
 
 
 
-- Mantenimiento de aplicaciones en lenguaje PHP, JavaScript, jQuery, Ajax.
+- Conocimientos en lenguaje PHP, JavaScript, HTML5.
+- Conocimientos en uso de jQuery Ajax.
 - Conocimientos en el Framework Laravel 5.5 y versiones superiores(8.x).
-- Conocimientos en lenguaje Java con patrón de arquitectura MVC, Framework Bootstrap y base de datos MySQL-MariaDB.
-- Conocimientos en Git, GitHub, Bitbucket.
-- Desarrollo Front-End, conocimientos básicos en React, y Bootstrap v5.0.
-- Conocimientos en creación de API-REST con Node.js y Express, base de datos MongoDB y el uso de la aplicación Postman
-- Conocimiento práctico en SQLServer.
+- Conocimientos en Git, GitHub, Gitlab.
+- Conocimientos en framework frontend Bootstrap.
+- Conocimientos en bases de datos SQLServer, PostgreSQL y MySQL.
 
 
 <figure><embed src="https://wakatime.com/share/@Johann_Dev/6695bf37-495f-44cb-8f5a-f7910cd73d41.svg"></embed></figure>
